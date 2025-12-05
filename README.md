@@ -288,14 +288,22 @@ prisma generate && next build
 ### DELETE `/api/posts/[id]`
 删除指定文章
 
-## 🌟 Vercel 免费额度
+## 🌟 Vercel + Neon 免费额度
 
-Vercel 为免费用户提供：
+### Neon 免费计划（推荐）
 
-- **Vercel Postgres**: 
-  - 256 MB 数据库存储
-  - 60 小时计算时间/月
-  - 适合中小型项目
+- **存储空间**: 0.5 GB 每个项目
+- **最大项目数**: 100 个
+- **计算资源**: 2 CU, 8 GB RAM
+- **计算时间**: 120 CU-hours 每个项目/月
+- **无需信用卡**: 完全免费
+
+### Vercel 免费计划
+
+- ✅ 无限预览部署
+- ✅ 100 GB 带宽/月
+- ✅ 全球 CDN
+- ✅ Serverless Functions
 
 - **部署**:
   - 无限预览部署
